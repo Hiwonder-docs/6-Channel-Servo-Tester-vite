@@ -30,7 +30,7 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://GITHUB-USERNAME.github.io/6-Channel-Servo-Tester-vite/projects/6-Channel-Servo-Tester/en/latest/
+https://hiwonder-docs.github.io/6-Channel-Servo-Tester-vite/projects/6-Channel-Servo-Tester/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
